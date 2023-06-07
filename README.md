@@ -21,6 +21,7 @@ _Collaborate and work together on GitHub._
 
 ## Step 5: Apply suggested changes
 this is a commit
+this is a commit
 
 _Nicely done suggesting changes! :partying_face:_
 
